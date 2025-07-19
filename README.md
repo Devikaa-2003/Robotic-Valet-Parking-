@@ -39,9 +39,9 @@ Tools & Technologies Used:
 - Mobile app-based user interface
 
 Team:
--Devika M Shaji – B.tech ECE Student, RSET (2022-2026)
--Adwaith Babu - B.tech ECE Student, RSET (2022-2026)
--Alen Jose - B.tech ECE Student, RSET (2022-2026)
+- Devika M Shaji – B.tech ECE Student, RSET (2022-2026)
+- Adwaith Babu - B.tech ECE Student, RSET (2022-2026)
+- Alen Jose - B.tech ECE Student, RSET (2022-2026)
 
 
 Contact:
