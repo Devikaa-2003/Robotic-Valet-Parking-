@@ -6,14 +6,16 @@ Objectives:
 - Automate vehicle parking and retrieval using robotic movement
 - Identify and allocate empty slots using smart detection
 - Implement RFID-based retrieval based on user input
-- Enable safe and compact parking in constrained environments. 
-                                     Key Features:
+- Enable safe and compact parking in constrained environments.
+
+Key Features:
 - Autonomous navigation within a predefined parking layout
 - Real-time vehicle presence detection
 - Unique identification of each parking slot
 - Smooth parking and retrieval operations
 - Scaled hardware prototype demonstrating concept feasibility
-                                  Domains Covered:
+
+Domains Covered:
 - Embedded Systems
 - Robotics and Automation
 - Communication Networks
